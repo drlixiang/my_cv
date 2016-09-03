@@ -154,6 +154,9 @@ section:last-child {
 	color: #444;
 }
 
+.sectionContent i {
+	font-style:italic;
+
 .subDetails {
 	font-size: 1.2em;
 	font-style: italic;
